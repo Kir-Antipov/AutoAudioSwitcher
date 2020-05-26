@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CoreAudio" Version="2020.4.93.1" />
+  </ItemGroup>
+
 </Project>
